@@ -1,1 +1,4 @@
-# multi-tagging-classification
+# Задача бинарной классификации с несколькими метками
+
+1) tf_idf_base_line.ipynb - Часть 1. Постановка задачи, описание основных концепций. Обучение модели CatBoostClassifier на базе признаков, извлеченных с использованием TfidfVectorizer.
+2) w2v_base_line.ipynb - Часть 2. Обучение модели CatBoostClassifier на базе признаков, извлеченных с использованием Word2Vec. Сравнение метрик.
