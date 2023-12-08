@@ -1,4 +1,6 @@
 .ipynb_checkpoints
+/.vscode
+/lightning_logs
 main.py
 demo.ipynb
 /catboost_info

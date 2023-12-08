@@ -12,6 +12,7 @@ nltk
 gensim
 
 catboost
+lightning
 lightgbm
 xgboost
 
